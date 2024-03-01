@@ -4,8 +4,6 @@
 - 🎏 Malaysian
 - 👧 I'm a Software Engineer
 - 👀 I’m interested in Website/Mobile App design, AI, Machine Learning, UI/UX design. 
-- 🌱 Currently learning on Mobile App design. 
-- 🌸 A girl who loves gardening
 - 📫 You may reach me at jyeming_chan@hotmail.com
 
 
