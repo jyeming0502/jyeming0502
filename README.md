@@ -9,7 +9,7 @@
 
 
 ### 💻 Skills  
-HTML, CSS, C#, SQL Server, ASP.NET, Markdown, RPA, Figma 
+HTML, CSS, C#, Bootstrap, SQL Server, ASP.NET Core, Blazor, Markdown, RPA, Figma, CI/CD, AzureDevOps
 
 
 
