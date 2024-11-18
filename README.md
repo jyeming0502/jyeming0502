@@ -3,13 +3,13 @@
 - 👋 Hi, I’m Jye Ming
 - 🎏 Malaysian
 - 👧 I'm a Software Engineer
-- 👀 I’m interested in Website/Mobile App design, AI, Machine Learning, UI/UX design. 
+- 👀 I’m interested in Website/Mobile App development, AI, UI/UX design. 
 - 📫 You may reach me at jyeming_chan@hotmail.com
 
 
 
 ### 💻 Skills  
-HTML, CSS, C#, Bootstrap, SQL Server, ASP.NET Core, Blazor, Markdown, RPA, Figma, CI/CD, AzureDevOps
+HTML, CSS, C#, Bootstrap, SQL Server, ASP.NET Core, Blazor, RPA, Figma, CI/CD, AzureDevOps
 
 
 
